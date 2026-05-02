@@ -6,6 +6,8 @@ Project ini merupakan tugas kelompok yang bertujuan untuk melakukan klasifikasi 
 
 Dataset yang digunakan adalah *Pima Indians Diabetes Dataset* yang berisi data medis dari 768 pasien, termasuk informasi seperti kadar glukosa, tekanan darah, BMI, dan lainnya.
 
+Link Google Collab saya https://colab.research.google.com/drive/1RrB3nllZHwbMrU0_mzvQdKMv_4s9BJ0f?usp=sharing
+
 ---
 
 ## 👥 Anggota Kelompok
