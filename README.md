@@ -112,5 +112,5 @@ Model Logistic Regression berhasil digunakan untuk mengklasifikasikan apakah ses
 ## 👤 Author
 
 **Pradipta Pramatya Panhar**
-GitHub: https://github.com/username
+GitHub: https://github.com/Dipta-tech
 
